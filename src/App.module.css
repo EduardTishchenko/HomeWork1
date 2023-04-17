@@ -5,11 +5,15 @@
 }
 
 .hw {
-
+    position: absolute;
+    width: 1280px;
+    height: 373px;
+    left: 0px;
+    top: 131px;
 }
 
 .hwTitle {
-    position: absolute;
+
     width: 165px;
     height: 27px;
     left: 70px;
